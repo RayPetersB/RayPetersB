@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayPetersB
-- 👀 I’m interested in always learning something new.
-- 🌱 I’m currently learning C++
+- 👀 I’m always interested in always learning something new.
+
 
 <!---
 RayPetersB/RayPetersB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
